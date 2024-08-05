@@ -1,0 +1,58 @@
+_repo: Voyages-to-the-Moon-and-the-Sun_74000
+_version: 0.0.1
+alternative_title: L'autre monde. English
+contributor:
+  translator:
+    agent_name: Aldington, Richard
+    alias: Oldington, Richard
+    birthdate: 1892
+    deathdate: 1962
+    gutenberg_agent_id: '34481'
+    url: http://www.gutenberg.org/2009/agents/34481
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Aldington
+creator:
+  author:
+    agent_name: Cyrano de Bergerac
+    aliases:
+    - Bergerac, Cyrano de
+    - De Bergerac, Cyrano
+    - Bergerac, Savinien Cyrano de
+    birthdate: 1619
+    deathdate: 1655
+    gutenberg_agent_id: '43842'
+    url: http://www.gutenberg.org/2009/agents/43842
+description: ''
+gutenberg_issued: '2024-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74000'
+  lccn: '24016234'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/001794261
+pgterms:marc905: 20240328074102debergerac
+pgterms:marc906: '1923'
+pgterms:marc907: GB
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: '  $aLondon :$bGeorge Routledge & Sons Ltd., $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Broadway translations
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Space flight to the moon -- Fiction'
+- !lcsh 'Voyages, Imaginary -- Early works to 1800'
+- !lcsh 'French fiction -- 17th century'
+- !lcsh 'Satire, French'
+- !lcsh 'Cyrano de Bergerac, 1619-1655'
+- !lcsh 'Authors, French -- 17th century'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: 'Introduction: The legend of Cyrano. The life of Cyrano. Cyrano''s
+  friends. The libertin question. The works of Cyrano -- Voyage to the moon -- Voyage
+  to the sun -- Appendices: Extracts from Godwin, D''Urfey, and Swift. Bibliography.
+  Genealogy. Coat of arms.'
+title: Voyages to the Moon and the Sun
+url: http://www.gutenberg.org/ebooks/74000
