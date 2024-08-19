@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '34481'
     url: http://www.gutenberg.org/2009/agents/34481
     wikipedia: https://en.wikipedia.org/wiki/Richard_Aldington
+covers:
+- cover_type: archival
+  image_path: 74000-h/images/cover.jpg
 creator:
   author:
     agent_name: Cyrano de Bergerac
@@ -22,6 +25,8 @@ creator:
     gutenberg_agent_id: '43842'
     url: http://www.gutenberg.org/2009/agents/43842
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74000#Voyages-to-the-Moon-and-the-Sun
 gutenberg_issued: '2024-07-10'
 gutenberg_type: Text
 identifiers:
